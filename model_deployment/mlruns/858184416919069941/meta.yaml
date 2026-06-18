@@ -1,6 +1,0 @@
-artifact_location: file:///d:/Scaler/Scaler_MLOps/code/Class_code/8_MLflow/model_deployment/mlruns/858184416919069941
-creation_time: 1772816946674
-experiment_id: '858184416919069941'
-last_update_time: 1772816946674
-lifecycle_stage: active
-name: model_serving
