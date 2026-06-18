@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Scaler/Scaler_MLOps/code/Class_code/9_ML_System_design_1/mlruns/209720353589099245/4a23176e77104e89b77dccb692e60682/artifacts
+end_time: 1773076832125
+entry_point_name: ''
+experiment_id: '209720353589099245'
+lifecycle_stage: active
+run_id: 4a23176e77104e89b77dccb692e60682
+run_name: 'run_2011-02-08 00:00:00 : 2011-02-14 23:00:00'
+run_uuid: 4a23176e77104e89b77dccb692e60682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773076832020
+status: 3
+tags: []
+user_id: SHARIQ
