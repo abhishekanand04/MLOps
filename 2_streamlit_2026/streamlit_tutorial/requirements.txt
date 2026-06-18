@@ -1,0 +1,5 @@
+yfinance
+streamlit
+pandas
+datetime
+scikit-learn==1.4.0
